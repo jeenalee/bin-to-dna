@@ -1,0 +1,14 @@
+[root]
+name = "balanced-bin-to-dna"
+version = "0.1.0"
+dependencies = [
+ "min-max-heap 0.2.1 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "min-max-heap"
+version = "0.2.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum min-max-heap 0.2.1 (registry+https://github.com/rust-lang/crates.io-index)" = "82224bf16fbeeab2500fc1709ee1befc0e7a9ea78a0f545f465426a21252eda6"

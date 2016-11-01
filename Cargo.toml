@@ -1,0 +1,7 @@
+[package]
+name = "balanced-bin-to-dna"
+version = "0.1.0"
+authors = ["Jeena Lee <ijeenalee@gmail.com>"]
+
+[dependencies]
+min-max-heap = "*"
